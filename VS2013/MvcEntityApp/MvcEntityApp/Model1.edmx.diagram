@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ce86aa1256c847ab86b3c3959bc790f5" Name="Diagram1" ZoomLevel="74" >
+        <EntityTypeShape EntityType="Model1.Movie" Width="1.5" PointX="2.125" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model1.Show" Width="1.5" PointX="2.125" PointY="0.5" />
+        <EntityTypeShape EntityType="Model1.SeatingType" Width="1.5" PointX="4" PointY="2.75" />
+        <EntityTypeShape EntityType="Model1.City" Width="1.5" PointX="5.875" PointY="0.5" />
+        <EntityTypeShape EntityType="Model1.Theater" Width="1.5" PointX="4" PointY="0.5" />
+        <EntityTypeShape EntityType="Model1.User" Width="1.5" PointX="7.75" PointY="0.5" />
+        <EntityTypeShape EntityType="Model1.Seat" Width="1.5" PointX="5.875" PointY="2.625" />
+        <EntityTypeShape EntityType="Model1.Booking" Width="1.5" PointX="9.75" PointY="1.5" />
+        <EntityTypeShape EntityType="Model1.SeatingDetails" Width="1.5" PointX="7.75" PointY="2.625" />
+        <AssociationConnector Association="Model1.MovieShow" />
+        <AssociationConnector Association="Model1.TheaterShow" />
+        <AssociationConnector Association="Model1.CityTheater" />
+        <AssociationConnector Association="Model1.CityUser" />
+        <AssociationConnector Association="Model1.SeatingTypeSeat" />
+        <AssociationConnector Association="Model1.SeatSeatingDetails" />
+        <EntityTypeShape EntityType="Model1.Status" Width="1.5" PointX="11.75" PointY="1.875" />
+        <AssociationConnector Association="Model1.BookingStatus" />
+        <AssociationConnector Association="Model1.UserBooking" />
+        <AssociationConnector Association="Model1.BookingSeatingDetails" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

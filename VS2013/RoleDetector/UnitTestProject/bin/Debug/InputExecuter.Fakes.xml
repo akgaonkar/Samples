@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>InputExecuter.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:InputExecuter.Fakes.ShimNetworkShareFilereader">
+            <summary>Shim type of InputExecuter.NetworkShareFilereader</summary>
+        </member>
+        <member name="M:InputExecuter.Fakes.ShimNetworkShareFilereader.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:InputExecuter.Fakes.ShimNetworkShareFilereader.#ctor(InputExecuter.NetworkShareFilereader)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:InputExecuter.Fakes.ShimNetworkShareFilereader.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:InputExecuter.Fakes.ShimNetworkShareFilereader.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:InputExecuter.Fakes.ShimNetworkShareFilereader.Bind(InputExecuter.IFileReader)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:InputExecuter.Fakes.ShimNetworkShareFilereader.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:InputExecuter.Fakes.ShimNetworkShareFilereader.Constructor">
+            <summary>Sets the shim of NetworkShareFilereader.NetworkShareFilereader()</summary>
+        </member>
+        <member name="P:InputExecuter.Fakes.ShimNetworkShareFilereader.ReadFile">
+            <summary>Sets the shim of NetworkShareFilereader.ReadFile()</summary>
+        </member>
+        <member name="T:InputExecuter.Fakes.ShimNetworkShareFilereader.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:InputExecuter.Fakes.ShimNetworkShareFilereader.AllInstances.ReadFile">
+            <summary>Sets the shim of NetworkShareFilereader.ReadFile()</summary>
+        </member>
+        <member name="T:InputExecuter.Fakes.StubIFileReader">
+            <summary>Stub type of InputExecuter.IFileReader</summary>
+        </member>
+        <member name="M:InputExecuter.Fakes.StubIFileReader.#ctor">
+            <summary>Initializes a new instance of type StubIFileReader</summary>
+        </member>
+        <member name="M:InputExecuter.Fakes.StubIFileReader.ie::InputExecuter#IFileReader#ReadFile">
+            <summary>Sets the stub of IFileReader.ReadFile()</summary>
+        </member>
+        <member name="F:InputExecuter.Fakes.StubIFileReader.ReadFile">
+            <summary>Sets the stub of IFileReader.ReadFile()</summary>
+        </member>
+        <member name="T:InputExecuter.Fakes.StubNetworkShareFilereader">
+            <summary>Stub type of InputExecuter.NetworkShareFilereader</summary>
+        </member>
+        <member name="M:InputExecuter.Fakes.StubNetworkShareFilereader.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:InputExecuter.Fakes.StubNetworkShareFilereader.InitializeStub">
+            <summary>Initializes a new instance of type StubNetworkShareFilereader</summary>
+        </member>
+        <member name="P:InputExecuter.Fakes.StubNetworkShareFilereader.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:InputExecuter.Fakes.StubNetworkShareFilereader.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:InputExecuter.Fakes.StubNetworkShareFilereader.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

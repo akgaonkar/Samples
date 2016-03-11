@@ -1,0 +1,14 @@
+D:\Project\Dockable\DockableVsExample\DockableVsExample\bin\Debug\DockableVsExample.exe
+D:\Project\Dockable\DockableVsExample\DockableVsExample\bin\Debug\DockableVsExample.pdb
+D:\Project\Dockable\DockableVsExample\DockableVsExample\bin\Debug\Controls.dll
+D:\Project\Dockable\DockableVsExample\DockableVsExample\bin\Debug\Controls.pdb
+D:\Project\Dockable\DockableVsExample\DockableVsExample\obj\x86\Debug\DockableVsExample.csprojResolveAssemblyReference.cache
+D:\Project\Dockable\DockableVsExample\DockableVsExample\obj\x86\Debug\MainWindow.baml
+D:\Project\Dockable\DockableVsExample\DockableVsExample\obj\x86\Debug\MainWindow.g.cs
+D:\Project\Dockable\DockableVsExample\DockableVsExample\obj\x86\Debug\App.g.cs
+D:\Project\Dockable\DockableVsExample\DockableVsExample\obj\x86\Debug\DockableVsExample_MarkupCompile.cache
+D:\Project\Dockable\DockableVsExample\DockableVsExample\obj\x86\Debug\DockableVsExample.g.resources
+D:\Project\Dockable\DockableVsExample\DockableVsExample\obj\x86\Debug\DockableVsExample.Properties.Resources.resources
+D:\Project\Dockable\DockableVsExample\DockableVsExample\obj\x86\Debug\DockableVsExample.csproj.GenerateResource.Cache
+D:\Project\Dockable\DockableVsExample\DockableVsExample\obj\x86\Debug\DockableVsExample.exe
+D:\Project\Dockable\DockableVsExample\DockableVsExample\obj\x86\Debug\DockableVsExample.pdb

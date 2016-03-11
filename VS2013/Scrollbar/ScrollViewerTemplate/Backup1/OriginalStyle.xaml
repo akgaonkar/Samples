@@ -1,0 +1,101 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	x:Class="ScrollViewerTemplate.OriginalStyle"
+	x:Name="Window"
+	Title="OriginalStyle"
+	Width="196" Height="246">
+
+  <Window.Resources>
+  
+ 
+  
+  </Window.Resources>
+  
+
+
+		<ScrollViewer 	RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Stretch" 
+						Margin="0,0,0,0" 
+						Width="Auto" HorizontalScrollBarVisibility="Visible"
+						Height="Auto">
+			<StackPanel Orientation="Vertical">
+				<StackPanel Orientation="Horizontal">
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+				</StackPanel>	
+				<StackPanel Orientation="Horizontal">
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+				</StackPanel>	
+				<StackPanel Orientation="Horizontal">
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+				</StackPanel>		
+				<StackPanel Orientation="Horizontal">
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+				</StackPanel>	
+				<StackPanel Orientation="Horizontal">
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+				</StackPanel>	
+				<StackPanel Orientation="Horizontal">
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+					<Rectangle Width="30" Height="30" Fill="#FF000000" Margin="5,5,5,5"/>
+				</StackPanel>	
+				
+																											
+			</StackPanel>
+		
+		</ScrollViewer>
+	
+</Window>

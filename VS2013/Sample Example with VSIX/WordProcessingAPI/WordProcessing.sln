@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordProcessing.Example", "WordProcessing.Example\WordProcessing.Example.csproj", "{2C7B37B5-86B8-484C-83B8-D027147F0B4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindtree.WordProcessingAPI", "Mindtree.WordProcessingAPI\Mindtree.WordProcessingAPI.csproj", "{4671F576-49AC-4BA5-86E7-BAC5B2B5251C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7B37B5-86B8-484C-83B8-D027147F0B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7B37B5-86B8-484C-83B8-D027147F0B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7B37B5-86B8-484C-83B8-D027147F0B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7B37B5-86B8-484C-83B8-D027147F0B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4671F576-49AC-4BA5-86E7-BAC5B2B5251C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4671F576-49AC-4BA5-86E7-BAC5B2B5251C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4671F576-49AC-4BA5-86E7-BAC5B2B5251C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4671F576-49AC-4BA5-86E7-BAC5B2B5251C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+c:\users\m1025951\documents\visual studio 2013\Projects\ConsoleApplication_AsyncAwait\ConsoleApplication_AsyncAwait\bin\Debug\ConsoleApplication_AsyncAwait.exe.config
+c:\users\m1025951\documents\visual studio 2013\Projects\ConsoleApplication_AsyncAwait\ConsoleApplication_AsyncAwait\bin\Debug\ConsoleApplication_AsyncAwait.exe
+c:\users\m1025951\documents\visual studio 2013\Projects\ConsoleApplication_AsyncAwait\ConsoleApplication_AsyncAwait\bin\Debug\ConsoleApplication_AsyncAwait.pdb
+c:\users\m1025951\documents\visual studio 2013\Projects\ConsoleApplication_AsyncAwait\ConsoleApplication_AsyncAwait\obj\Debug\ConsoleApplication_AsyncAwait.csprojResolveAssemblyReference.cache
+c:\users\m1025951\documents\visual studio 2013\Projects\ConsoleApplication_AsyncAwait\ConsoleApplication_AsyncAwait\obj\Debug\ConsoleApplication_AsyncAwait.exe
+c:\users\m1025951\documents\visual studio 2013\Projects\ConsoleApplication_AsyncAwait\ConsoleApplication_AsyncAwait\obj\Debug\ConsoleApplication_AsyncAwait.pdb

@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>A4ML09459</Machine>
+    <WindowsUser>M1025951</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6e887a80-0c75-40c8-b880-eac987a95603</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\bin\Debug\PeopleHubMobile.exe">
+      <PackagePath>PeopleHubMobile.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\HubBackground.theme-dark.png">
+      <PackagePath>Assets\HubBackground.theme-dark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\Bookshelf.png">
+      <PackagePath>Assets\Bookshelf.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\bookshelf_banner.png">
+      <PackagePath>Assets\bookshelf_banner.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\Capture.PNG">
+      <PackagePath>Assets\Capture.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\Capturing-Analytics-in-WinRT.png">
+      <PackagePath>Assets\Capturing-Analytics-in-WinRT.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\Cloud.png">
+      <PackagePath>Assets\Cloud.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\cs1.png">
+      <PackagePath>Assets\cs1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\cs2.png">
+      <PackagePath>Assets\cs2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\cs3.png">
+      <PackagePath>Assets\cs3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\cs4.png">
+      <PackagePath>Assets\cs4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\cs5.png">
+      <PackagePath>Assets\cs5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\cs6.png">
+      <PackagePath>Assets\cs6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\cs7.png">
+      <PackagePath>Assets\cs7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\cs8.png">
+      <PackagePath>Assets\cs8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\cs9.png">
+      <PackagePath>Assets\cs9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\cs10.png">
+      <PackagePath>Assets\cs10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\DP_banner.png">
+      <PackagePath>Assets\DP_banner.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\hc1.png">
+      <PackagePath>Assets\hc1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\hc2.png">
+      <PackagePath>Assets\hc2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\HubBackground.theme-dark4.png">
+      <PackagePath>Assets\HubBackground.theme-dark4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\learn_hub_banner.png">
+      <PackagePath>Assets\learn_hub_banner.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\HubBackground.theme-light.png">
+      <PackagePath>Assets\HubBackground.theme-light.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\MT_logo_footer.png">
+      <PackagePath>Assets\MT_logo_footer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\pc1.png">
+      <PackagePath>Assets\pc1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\pc2.png">
+      <PackagePath>Assets\pc2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\pc3.png">
+      <PackagePath>Assets\pc3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\pc4.png">
+      <PackagePath>Assets\pc4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\pc5.png">
+      <PackagePath>Assets\pc5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\pc6.png">
+      <PackagePath>Assets\pc6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\pc7.png">
+      <PackagePath>Assets\pc7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\teamexplorer.png">
+      <PackagePath>Assets\teamexplorer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\tfs1.png">
+      <PackagePath>Assets\tfs1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\tfs3.png">
+      <PackagePath>Assets\tfs3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\tfs4.png">
+      <PackagePath>Assets\tfs4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\tfs5.png">
+      <PackagePath>Assets\tfs5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\tfs6.png">
+      <PackagePath>Assets\tfs6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\appraisal.jpg">
+      <PackagePath>Assets\appraisal.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\csharp.jpg">
+      <PackagePath>Assets\csharp.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\Kalinga-Rises.jpg">
+      <PackagePath>Assets\Kalinga-Rises.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\KnowYourLeader-Kamran.jpg">
+      <PackagePath>Assets\KnowYourLeader-Kamran.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\Konnect-360.jpg">
+      <PackagePath>Assets\Konnect-360.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\MiVoice_V1.jpg">
+      <PackagePath>Assets\MiVoice_V1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\mt.jpg">
+      <PackagePath>Assets\mt.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\Osmosis-Mindtree.jpg">
+      <PackagePath>Assets\Osmosis-Mindtree.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\package.jpg">
+      <PackagePath>Assets\package.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\Sales.jpg">
+      <PackagePath>Assets\Sales.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Assets\Water-Cooler-Chatter.jpg">
+      <PackagePath>Assets\Water-Cooler-Chatter.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\bin\Debug\BlogDetailPage.xbf">
+      <PackagePath>BlogDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\bin\Debug\BlogPage.xbf">
+      <PackagePath>BlogPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\bin\Debug\LoginPage.xbf">
+      <PackagePath>LoginPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\bin\Debug\WebPage.xbf">
+      <PackagePath>WebPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\bin\Debug\PeopleHubMobile.xr.xml">
+      <PackagePath>PeopleHubMobile.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m1025951\Documents\Visual Studio 2013\Projects\PeopleHubMobile\PeopleHubMobile\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

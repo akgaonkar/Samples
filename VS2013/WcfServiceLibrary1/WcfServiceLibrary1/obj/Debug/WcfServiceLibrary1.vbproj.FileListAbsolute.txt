@@ -1,0 +1,9 @@
+C:\Users\m1025951\Documents\Visual Studio 2013\Projects\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\m1025951\Documents\Visual Studio 2013\Projects\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\m1025951\Documents\Visual Studio 2013\Projects\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\m1025951\Documents\Visual Studio 2013\Projects\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.xml
+C:\Users\m1025951\Documents\Visual Studio 2013\Projects\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.Resources.resources
+C:\Users\m1025951\Documents\Visual Studio 2013\Projects\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.vbproj.GenerateResource.Cache
+C:\Users\m1025951\Documents\Visual Studio 2013\Projects\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\m1025951\Documents\Visual Studio 2013\Projects\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.xml
+C:\Users\m1025951\Documents\Visual Studio 2013\Projects\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

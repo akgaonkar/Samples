@@ -1,0 +1,17 @@
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\bin\Release\SimpleCalculator.exe.config
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\bin\Release\SimpleCalculator.exe
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\bin\Release\SimpleCalculator.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\bin\Release\CalculatorViewModel.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\bin\Release\CalculatorModel.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\bin\Release\CalculatorViewModel.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\bin\Release\CalculatorModel.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Release\MainWindow.baml
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Release\MainWindow.g.cs
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Release\App.g.cs
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator_MarkupCompile.cache
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.g.resources
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.Properties.Resources.resources
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.csproj.GenerateResource.Cache
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.exe
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.pdb

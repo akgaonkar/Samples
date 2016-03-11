@@ -1,0 +1,5 @@
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\Eumerable\bin\Debug\Eumerable.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\Eumerable\bin\Debug\Eumerable.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\Eumerable\obj\Debug\CommanInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\Eumerable\obj\Debug\Eumerable.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\Eumerable\obj\Debug\Eumerable.pdb

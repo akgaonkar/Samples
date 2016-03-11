@@ -1,0 +1,15 @@
+D:\PROJECTS\VS2013\WPF Sandbox\WPF Sandbox\bin\Debug\WPF Sandbox.exe.config
+D:\PROJECTS\VS2013\WPF Sandbox\WPF Sandbox\bin\Debug\WPF Sandbox.exe
+D:\PROJECTS\VS2013\WPF Sandbox\WPF Sandbox\bin\Debug\WPF Sandbox.pdb
+D:\PROJECTS\VS2013\WPF Sandbox\WPF Sandbox\obj\Debug\WPF Sandbox.csprojResolveAssemblyReference.cache
+D:\PROJECTS\VS2013\WPF Sandbox\WPF Sandbox\obj\Debug\MainWindow.g.cs
+D:\PROJECTS\VS2013\WPF Sandbox\WPF Sandbox\obj\Debug\App.g.cs
+D:\PROJECTS\VS2013\WPF Sandbox\WPF Sandbox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PROJECTS\VS2013\WPF Sandbox\WPF Sandbox\obj\Debug\WPF Sandbox_MarkupCompile.cache
+D:\PROJECTS\VS2013\WPF Sandbox\WPF Sandbox\obj\Debug\WPF Sandbox_MarkupCompile.lref
+D:\PROJECTS\VS2013\WPF Sandbox\WPF Sandbox\obj\Debug\MainWindow.baml
+D:\PROJECTS\VS2013\WPF Sandbox\WPF Sandbox\obj\Debug\WPF Sandbox.g.resources
+D:\PROJECTS\VS2013\WPF Sandbox\WPF Sandbox\obj\Debug\WPF_Sandbox.Properties.Resources.resources
+D:\PROJECTS\VS2013\WPF Sandbox\WPF Sandbox\obj\Debug\WPF Sandbox.csproj.GenerateResource.Cache
+D:\PROJECTS\VS2013\WPF Sandbox\WPF Sandbox\obj\Debug\WPF Sandbox.exe
+D:\PROJECTS\VS2013\WPF Sandbox\WPF Sandbox\obj\Debug\WPF Sandbox.pdb

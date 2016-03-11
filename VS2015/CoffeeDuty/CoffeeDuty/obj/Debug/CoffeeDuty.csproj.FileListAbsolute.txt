@@ -1,0 +1,5 @@
+D:\PROJECTS\VS2015\CoffeeDuty\CoffeeDuty\bin\Debug\CoffeeDuty.exe.config
+D:\PROJECTS\VS2015\CoffeeDuty\CoffeeDuty\bin\Debug\CoffeeDuty.exe
+D:\PROJECTS\VS2015\CoffeeDuty\CoffeeDuty\bin\Debug\CoffeeDuty.pdb
+D:\PROJECTS\VS2015\CoffeeDuty\CoffeeDuty\obj\Debug\CoffeeDuty.exe
+D:\PROJECTS\VS2015\CoffeeDuty\CoffeeDuty\obj\Debug\CoffeeDuty.pdb

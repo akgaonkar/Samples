@@ -1,0 +1,34 @@
+﻿<Window
+    x:Class="WPF_Sandbox.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:BorderTest="clr-namespace:WPF_Sandbox"    
+    Title="MainWindow"
+    Height="350"
+    Width="525"
+    Loaded="Window_Loaded">
+
+    <Grid>
+        <BorderTest:FunkyBorder
+            BorderBrush="Red">
+            <TextBlock
+                Text="Hello" />
+        </BorderTest:FunkyBorder>
+        <!--<Polygon
+            Points="50, 100 200, 100 200, 200 300, 30"
+            Stroke="Black"
+            StrokeThickness="4"
+            Fill="Yellow" />-->
+        <BorderTest:ControlAdorner>
+        <Button
+            Content="Look at me"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Name="Btn"
+            Click="Btn_Click"
+            Height="64"
+            Margin="166,127,150,128"
+            Width="201" />
+        </BorderTest:ControlAdorner>
+    </Grid>
+</Window>

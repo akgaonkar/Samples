@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FileParser.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:FileParser.Fakes.ShimWordDocumentParser">
+            <summary>Shim type of FileParser.WordDocumentParser</summary>
+        </member>
+        <member name="M:FileParser.Fakes.ShimWordDocumentParser.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:FileParser.Fakes.ShimWordDocumentParser.#ctor(FileParser.WordDocumentParser)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:FileParser.Fakes.ShimWordDocumentParser.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:FileParser.Fakes.ShimWordDocumentParser.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:FileParser.Fakes.ShimWordDocumentParser.Bind(FileParser.IParser)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:FileParser.Fakes.ShimWordDocumentParser.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:FileParser.Fakes.ShimWordDocumentParser.Constructor">
+            <summary>Sets the shim of WordDocumentParser.WordDocumentParser()</summary>
+        </member>
+        <member name="P:FileParser.Fakes.ShimWordDocumentParser.Parser">
+            <summary>Sets the shim of WordDocumentParser.Parser()</summary>
+        </member>
+        <member name="T:FileParser.Fakes.ShimWordDocumentParser.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:FileParser.Fakes.ShimWordDocumentParser.AllInstances.Parser">
+            <summary>Sets the shim of WordDocumentParser.Parser()</summary>
+        </member>
+        <member name="T:FileParser.Fakes.StubIParser">
+            <summary>Stub type of FileParser.IParser</summary>
+        </member>
+        <member name="M:FileParser.Fakes.StubIParser.#ctor">
+            <summary>Initializes a new instance of type StubIParser</summary>
+        </member>
+        <member name="M:FileParser.Fakes.StubIParser.fp::FileParser#IParser#Parser">
+            <summary>Sets the stub of IParser.Parser()</summary>
+        </member>
+        <member name="F:FileParser.Fakes.StubIParser.Parser">
+            <summary>Sets the stub of IParser.Parser()</summary>
+        </member>
+        <member name="T:FileParser.Fakes.StubWordDocumentParser">
+            <summary>Stub type of FileParser.WordDocumentParser</summary>
+        </member>
+        <member name="M:FileParser.Fakes.StubWordDocumentParser.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:FileParser.Fakes.StubWordDocumentParser.InitializeStub">
+            <summary>Initializes a new instance of type StubWordDocumentParser</summary>
+        </member>
+        <member name="P:FileParser.Fakes.StubWordDocumentParser.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:FileParser.Fakes.StubWordDocumentParser.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:FileParser.Fakes.StubWordDocumentParser.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

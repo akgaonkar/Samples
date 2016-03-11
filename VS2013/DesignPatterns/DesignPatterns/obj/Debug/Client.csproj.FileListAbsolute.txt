@@ -1,0 +1,12 @@
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\DesignPatterns\bin\Debug\DelegateCalculator.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\DesignPatterns\bin\Debug\FactoryMethod.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\DesignPatterns\bin\Debug\SimpleFactory.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\DesignPatterns\bin\Debug\DelegateCalculator.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\DesignPatterns\bin\Debug\FactoryMethod.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\DesignPatterns\bin\Debug\SimpleFactory.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\DesignPatterns\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb

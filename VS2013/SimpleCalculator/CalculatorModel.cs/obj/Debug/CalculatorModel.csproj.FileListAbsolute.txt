@@ -1,0 +1,4 @@
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\CalculatorModel.cs\bin\Debug\CalculatorModel.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\CalculatorModel.cs\bin\Debug\CalculatorModel.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\CalculatorModel.cs\obj\Debug\CalculatorModel.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\SimpleCalculator\CalculatorModel.cs\obj\Debug\CalculatorModel.pdb

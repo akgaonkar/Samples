@@ -1,0 +1,10 @@
+D:\Project\Dockable\DockableVsExample\Controls\bin\Debug\Controls.dll
+D:\Project\Dockable\DockableVsExample\Controls\bin\Debug\Controls.pdb
+D:\Project\Dockable\DockableVsExample\Controls\obj\Debug\Controls.csprojResolveAssemblyReference.cache
+D:\Project\Dockable\DockableVsExample\Controls\obj\Debug\Themes\Generic.baml
+D:\Project\Dockable\DockableVsExample\Controls\obj\Debug\Controls_MarkupCompile.cache
+D:\Project\Dockable\DockableVsExample\Controls\obj\Debug\Controls.g.resources
+D:\Project\Dockable\DockableVsExample\Controls\obj\Debug\Controls.Properties.Resources.resources
+D:\Project\Dockable\DockableVsExample\Controls\obj\Debug\Controls.csproj.GenerateResource.Cache
+D:\Project\Dockable\DockableVsExample\Controls\obj\Debug\Controls.dll
+D:\Project\Dockable\DockableVsExample\Controls\obj\Debug\Controls.pdb

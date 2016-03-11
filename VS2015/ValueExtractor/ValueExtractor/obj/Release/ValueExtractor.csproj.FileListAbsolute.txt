@@ -1,0 +1,11 @@
+D:\PROJECTS\VS2015\ValueExtractor\ValueExtractor\bin\Release\ValueExtractor.exe.config
+D:\PROJECTS\VS2015\ValueExtractor\ValueExtractor\bin\Release\ValueExtractor.exe
+D:\PROJECTS\VS2015\ValueExtractor\ValueExtractor\bin\Release\ValueExtractor.pdb
+D:\PROJECTS\VS2015\ValueExtractor\ValueExtractor\obj\Release\ValueExtractor.MainUI.resources
+D:\PROJECTS\VS2015\ValueExtractor\ValueExtractor\obj\Release\ValueExtractor.Properties.Resources.resources
+D:\PROJECTS\VS2015\ValueExtractor\ValueExtractor\obj\Release\ValueExtractor.csproj.GenerateResource.Cache
+D:\PROJECTS\VS2015\ValueExtractor\ValueExtractor\obj\Release\ValueExtractor.exe
+D:\PROJECTS\VS2015\ValueExtractor\ValueExtractor\obj\Release\ValueExtractor.pdb
+D:\PROJECTS\VS2015\ValueExtractor\ValueExtractor\obj\Release\ValueExtractor.csprojResolveAssemblyReference.cache
+D:\PROJECTS\VS2015\ValueExtractor\ValueExtractor\bin\Release\System.Net.Http.dll
+D:\PROJECTS\VS2015\ValueExtractor\ValueExtractor\bin\Release\System.Net.Http.xml

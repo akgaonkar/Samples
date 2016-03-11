@@ -1,0 +1,4 @@
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFCounter\Counter\bin\Debug\Counter.dll
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFCounter\Counter\bin\Debug\Counter.pdb
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFCounter\Counter\obj\Debug\Counter.dll
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFCounter\Counter\obj\Debug\Counter.pdb

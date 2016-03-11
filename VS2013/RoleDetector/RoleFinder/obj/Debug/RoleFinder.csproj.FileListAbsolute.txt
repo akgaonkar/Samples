@@ -1,0 +1,4 @@
+c:\users\m1025951\documents\visual studio 2013\Projects\RoleDetector\RoleFinder\bin\Debug\RoleFinder.dll
+c:\users\m1025951\documents\visual studio 2013\Projects\RoleDetector\RoleFinder\bin\Debug\RoleFinder.pdb
+c:\users\m1025951\documents\visual studio 2013\Projects\RoleDetector\RoleFinder\obj\Debug\RoleFinder.dll
+c:\users\m1025951\documents\visual studio 2013\Projects\RoleDetector\RoleFinder\obj\Debug\RoleFinder.pdb

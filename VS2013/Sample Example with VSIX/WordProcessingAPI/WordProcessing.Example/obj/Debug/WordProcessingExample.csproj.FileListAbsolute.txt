@@ -1,0 +1,2 @@
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\bin\Debug\WordProcessingExample.exe.config
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\bin\Debug\WordProcessing.Example.exe.config

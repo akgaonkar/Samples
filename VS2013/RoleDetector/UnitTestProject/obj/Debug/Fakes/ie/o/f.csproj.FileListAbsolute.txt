@@ -1,0 +1,15 @@
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\ie\b\InputExecuter.Fakes.xml
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\ie\b\InputExecuter.Fakes.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\ie\b\InputExecuter.Fakes.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\ie\b\FileParser.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\ie\b\InputExecuter.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\ie\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\ie\b\ResumeProcessor.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\ie\b\RoleFinder.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\ie\b\InputExecuter.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\ie\b\FileParser.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\ie\b\ResumeProcessor.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\ie\b\RoleFinder.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\ie\o\f.csprojResolveAssemblyReference.cache
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\ie\o\InputExecuter.Fakes.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\ie\o\InputExecuter.Fakes.pdb

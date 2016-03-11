@@ -1,0 +1,14 @@
+D:\PROJECTS\VS2013\Adorner\SimpleAdornedControlSample\bin\Debug\SimpleSample.exe
+D:\PROJECTS\VS2013\Adorner\SimpleAdornedControlSample\bin\Debug\SimpleSample.pdb
+D:\PROJECTS\VS2013\Adorner\SimpleAdornedControlSample\bin\Debug\AdornedControl.dll
+D:\PROJECTS\VS2013\Adorner\SimpleAdornedControlSample\bin\Debug\AdornedControl.pdb
+D:\PROJECTS\VS2013\Adorner\SimpleAdornedControlSample\obj\Debug\SimpleAdornedControlSample.csprojResolveAssemblyReference.cache
+D:\PROJECTS\VS2013\Adorner\SimpleAdornedControlSample\obj\Debug\Window1.baml
+D:\PROJECTS\VS2013\Adorner\SimpleAdornedControlSample\obj\Debug\Window1.g.cs
+D:\PROJECTS\VS2013\Adorner\SimpleAdornedControlSample\obj\Debug\App.g.cs
+D:\PROJECTS\VS2013\Adorner\SimpleAdornedControlSample\obj\Debug\SimpleSample_MarkupCompile.cache
+D:\PROJECTS\VS2013\Adorner\SimpleAdornedControlSample\obj\Debug\SimpleSample.g.resources
+D:\PROJECTS\VS2013\Adorner\SimpleAdornedControlSample\obj\Debug\SimpleSample.Properties.Resources.resources
+D:\PROJECTS\VS2013\Adorner\SimpleAdornedControlSample\obj\Debug\SimpleAdornedControlSample.csproj.GenerateResource.Cache
+D:\PROJECTS\VS2013\Adorner\SimpleAdornedControlSample\obj\Debug\SimpleSample.exe
+D:\PROJECTS\VS2013\Adorner\SimpleAdornedControlSample\obj\Debug\SimpleSample.pdb

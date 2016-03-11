@@ -1,0 +1,6 @@
+c:\users\m1025951\documents\visual studio 2013\Projects\MSMQTest\MSMQTest\bin\Debug\MSMQTest.exe.config
+c:\users\m1025951\documents\visual studio 2013\Projects\MSMQTest\MSMQTest\bin\Debug\MSMQTest.exe
+c:\users\m1025951\documents\visual studio 2013\Projects\MSMQTest\MSMQTest\bin\Debug\MSMQTest.pdb
+c:\users\m1025951\documents\visual studio 2013\Projects\MSMQTest\MSMQTest\obj\Debug\MSMQTest.csprojResolveAssemblyReference.cache
+c:\users\m1025951\documents\visual studio 2013\Projects\MSMQTest\MSMQTest\obj\Debug\MSMQTest.exe
+c:\users\m1025951\documents\visual studio 2013\Projects\MSMQTest\MSMQTest\obj\Debug\MSMQTest.pdb

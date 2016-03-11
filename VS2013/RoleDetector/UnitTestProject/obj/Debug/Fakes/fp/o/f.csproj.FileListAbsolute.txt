@@ -1,0 +1,15 @@
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\fp\b\FileParser.Fakes.xml
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\fp\b\FileParser.Fakes.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\fp\b\FileParser.Fakes.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\fp\b\FileParser.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\fp\b\InputExecuter.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\fp\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\fp\b\ResumeProcessor.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\fp\b\RoleFinder.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\fp\b\FileParser.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\fp\b\InputExecuter.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\fp\b\ResumeProcessor.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\fp\b\RoleFinder.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\fp\o\f.csprojResolveAssemblyReference.cache
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\fp\o\FileParser.Fakes.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\UnitTestProject\obj\Debug\Fakes\fp\o\FileParser.Fakes.pdb

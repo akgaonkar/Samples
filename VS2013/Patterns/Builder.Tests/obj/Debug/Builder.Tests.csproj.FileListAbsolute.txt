@@ -1,0 +1,1 @@
+c:\Users\m1025951\documents\visual studio 2013\Projects\Patterns\Builder.Tests\obj\Debug\Builder.Tests.csprojResolveAssemblyReference.cache

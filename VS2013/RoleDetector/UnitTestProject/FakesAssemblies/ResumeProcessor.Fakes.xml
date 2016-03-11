@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ResumeProcessor.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:ResumeProcessor.Fakes.ShimProcesTemplate">
+            <summary>Shim type of ResumeProcessor.ProcesTemplate</summary>
+        </member>
+        <member name="M:ResumeProcessor.Fakes.ShimProcesTemplate.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:ResumeProcessor.Fakes.ShimProcesTemplate.#ctor(ResumeProcessor.ProcesTemplate)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:ResumeProcessor.Fakes.ShimProcesTemplate.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ResumeProcessor.Fakes.ShimProcesTemplate.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ResumeProcessor.Fakes.ShimProcesTemplate.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ResumeProcessor.Fakes.ShimProcesTemplate.Constructor">
+            <summary>Sets the shim of ProcesTemplate.ProcesTemplate()</summary>
+        </member>
+        <member name="P:ResumeProcessor.Fakes.ShimProcesTemplate.ProcessIFileReaderIParserIRoleFinder">
+            <summary>Sets the shim of ProcesTemplate.Process(IFileReader reader, IParser parser, IRoleFinder roleFinder)</summary>
+        </member>
+        <member name="T:ResumeProcessor.Fakes.ShimProcesTemplate.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:ResumeProcessor.Fakes.ShimProcesTemplate.AllInstances.ProcessIFileReaderIParserIRoleFinder">
+            <summary>Sets the shim of ProcesTemplate.Process(IFileReader reader, IParser parser, IRoleFinder roleFinder)</summary>
+        </member>
+        <member name="T:ResumeProcessor.Fakes.StubProcesTemplate">
+            <summary>Stub type of ResumeProcessor.ProcesTemplate</summary>
+        </member>
+        <member name="M:ResumeProcessor.Fakes.StubProcesTemplate.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:ResumeProcessor.Fakes.StubProcesTemplate.InitializeStub">
+            <summary>Initializes a new instance of type StubProcesTemplate</summary>
+        </member>
+        <member name="P:ResumeProcessor.Fakes.StubProcesTemplate.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:ResumeProcessor.Fakes.StubProcesTemplate.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:ResumeProcessor.Fakes.StubProcesTemplate.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

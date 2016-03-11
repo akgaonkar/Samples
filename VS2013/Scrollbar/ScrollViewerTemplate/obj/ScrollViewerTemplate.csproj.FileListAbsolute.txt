@@ -1,0 +1,12 @@
+C:\Users\sacha\Desktop\MyBlog\ScrollViewerTemplate\ScrollViewerTemplate\bin\Debug\ScrollViewerTemplate.exe
+C:\Users\sacha\Desktop\MyBlog\ScrollViewerTemplate\ScrollViewerTemplate\bin\Debug\ScrollViewerTemplate.pdb
+C:\Users\sacha\Desktop\MyBlog\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sacha\Desktop\MyBlog\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\Window1.baml
+C:\Users\sacha\Desktop\MyBlog\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\Window1.g.cs
+C:\Users\sacha\Desktop\MyBlog\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\App.g.cs
+C:\Users\sacha\Desktop\MyBlog\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\ScrollViewerTemplate_MarkupCompile.cache
+C:\Users\sacha\Desktop\MyBlog\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\ScrollViewerTemplate.g.resources
+C:\Users\sacha\Desktop\MyBlog\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\ScrollViewerTemplate.exe
+C:\Users\sacha\Desktop\MyBlog\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\ScrollViewerTemplate.pdb
+C:\Users\sacha\Desktop\MyBlog\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\Window2.baml
+C:\Users\sacha\Desktop\MyBlog\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\Window2.g.cs

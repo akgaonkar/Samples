@@ -1,0 +1,5 @@
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\SimpleFactory\bin\Debug\SimpleFactory.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\SimpleFactory\bin\Debug\SimpleFactory.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\SimpleFactory\obj\Debug\SimpleFactory.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\SimpleFactory\obj\Debug\SimpleFactory.pdb
+C:\Users\m1025951\Documents\Visual Studio 2013\Projects\DesignPatterns\SimpleFactory\obj\Debug\SimpleFactory.csprojResolveAssemblyReference.cache

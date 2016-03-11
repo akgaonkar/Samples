@@ -1,0 +1,9 @@
+c:\users\m1025951\documents\visual studio 2013\Projects\SMS\SMS\bin\Debug\SMS.exe.config
+c:\users\m1025951\documents\visual studio 2013\Projects\SMS\SMS\bin\Debug\SMS.exe
+c:\users\m1025951\documents\visual studio 2013\Projects\SMS\SMS\bin\Debug\SMS.pdb
+c:\users\m1025951\documents\visual studio 2013\Projects\SMS\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+c:\users\m1025951\documents\visual studio 2013\Projects\SMS\SMS\obj\Debug\SMS.Form1.resources
+c:\users\m1025951\documents\visual studio 2013\Projects\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+c:\users\m1025951\documents\visual studio 2013\Projects\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+c:\users\m1025951\documents\visual studio 2013\Projects\SMS\SMS\obj\Debug\SMS.exe
+c:\users\m1025951\documents\visual studio 2013\Projects\SMS\SMS\obj\Debug\SMS.pdb

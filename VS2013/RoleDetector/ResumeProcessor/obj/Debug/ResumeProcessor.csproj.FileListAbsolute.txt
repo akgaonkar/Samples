@@ -1,0 +1,11 @@
+c:\users\m1025951\documents\visual studio 2013\Projects\RoleDetector\ResumeProcessor\obj\Debug\ResumeProcessor.csprojResolveAssemblyReference.cache
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\ResumeProcessor\bin\Debug\ResumeProcessor.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\ResumeProcessor\bin\Debug\ResumeProcessor.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\ResumeProcessor\bin\Debug\FileParser.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\ResumeProcessor\bin\Debug\InputExecuter.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\ResumeProcessor\bin\Debug\RoleFinder.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\ResumeProcessor\bin\Debug\FileParser.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\ResumeProcessor\bin\Debug\InputExecuter.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\ResumeProcessor\bin\Debug\RoleFinder.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\ResumeProcessor\obj\Debug\ResumeProcessor.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\RoleDetector\ResumeProcessor\obj\Debug\ResumeProcessor.pdb

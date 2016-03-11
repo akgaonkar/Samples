@@ -1,0 +1,5 @@
+c:\users\m1025951\documents\visual studio 2013\Projects\RoleDetector\RoleDetector\bin\Debug\RoleDetector.exe.config
+c:\users\m1025951\documents\visual studio 2013\Projects\RoleDetector\RoleDetector\bin\Debug\RoleDetector.exe
+c:\users\m1025951\documents\visual studio 2013\Projects\RoleDetector\RoleDetector\bin\Debug\RoleDetector.pdb
+c:\users\m1025951\documents\visual studio 2013\Projects\RoleDetector\RoleDetector\obj\Debug\RoleDetector.exe
+c:\users\m1025951\documents\visual studio 2013\Projects\RoleDetector\RoleDetector\obj\Debug\RoleDetector.pdb

@@ -1,0 +1,4 @@
+c:\users\m1025951\documents\visual studio 2013\Projects\RoleDetector\FileParser\bin\Debug\FileParser.dll
+c:\users\m1025951\documents\visual studio 2013\Projects\RoleDetector\FileParser\bin\Debug\FileParser.pdb
+c:\users\m1025951\documents\visual studio 2013\Projects\RoleDetector\FileParser\obj\Debug\FileParser.dll
+c:\users\m1025951\documents\visual studio 2013\Projects\RoleDetector\FileParser\obj\Debug\FileParser.pdb

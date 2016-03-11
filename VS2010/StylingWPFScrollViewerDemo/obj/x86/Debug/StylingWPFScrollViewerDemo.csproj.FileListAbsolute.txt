@@ -1,0 +1,13 @@
+D:\PROJECTS\VS2010\StylingWPFScrollViewerDemo\bin\Debug\StylingWPFScrollViewerDemo.exe
+D:\PROJECTS\VS2010\StylingWPFScrollViewerDemo\bin\Debug\StylingWPFScrollViewerDemo.pdb
+D:\PROJECTS\VS2010\StylingWPFScrollViewerDemo\obj\x86\Debug\StylingWPFScrollViewerDemo.csprojResolveAssemblyReference.cache
+D:\PROJECTS\VS2010\StylingWPFScrollViewerDemo\obj\x86\Debug\MainWindow.g.cs
+D:\PROJECTS\VS2010\StylingWPFScrollViewerDemo\obj\x86\Debug\App.g.cs
+D:\PROJECTS\VS2010\StylingWPFScrollViewerDemo\obj\x86\Debug\StylingWPFScrollViewerDemo_MarkupCompile.cache
+D:\PROJECTS\VS2010\StylingWPFScrollViewerDemo\obj\x86\Debug\StylingWPFScrollViewerDemo_MarkupCompile.lref
+D:\PROJECTS\VS2010\StylingWPFScrollViewerDemo\obj\x86\Debug\MainWindow.baml
+D:\PROJECTS\VS2010\StylingWPFScrollViewerDemo\obj\x86\Debug\StylingWPFScrollViewerDemo.g.resources
+D:\PROJECTS\VS2010\StylingWPFScrollViewerDemo\obj\x86\Debug\StylingWPFScrollViewerDemo.Properties.Resources.resources
+D:\PROJECTS\VS2010\StylingWPFScrollViewerDemo\obj\x86\Debug\StylingWPFScrollViewerDemo.csproj.GenerateResource.Cache
+D:\PROJECTS\VS2010\StylingWPFScrollViewerDemo\obj\x86\Debug\StylingWPFScrollViewerDemo.exe
+D:\PROJECTS\VS2010\StylingWPFScrollViewerDemo\obj\x86\Debug\StylingWPFScrollViewerDemo.pdb

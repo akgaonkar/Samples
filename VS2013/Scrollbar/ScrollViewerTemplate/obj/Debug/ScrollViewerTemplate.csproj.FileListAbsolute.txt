@@ -1,0 +1,24 @@
+F:\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\ScrollViewerTemplate.exe
+F:\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\ScrollViewerTemplate.pdb
+F:\ScrollViewerTemplate\ScrollViewerTemplate\bin\Debug\ScrollViewerTemplate.exe
+F:\ScrollViewerTemplate\ScrollViewerTemplate\bin\Debug\ScrollViewerTemplate.pdb
+F:\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\ResolveAssemblyReference.cache
+F:\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\NewStyle.baml
+F:\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\OriginalStyle.baml
+F:\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\NewStyle.g.cs
+F:\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\OriginalStyle.g.cs
+F:\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\App.g.cs
+F:\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\ScrollViewerTemplate_MarkupCompile.cache
+F:\ScrollViewerTemplate\ScrollViewerTemplate\obj\Debug\ScrollViewerTemplate.g.resources
+C:\Documents and Settings\sacha.barber\Desktop\ScrollViewerTemplate\obj\Debug\ScrollViewerTemplate.exe
+C:\Documents and Settings\sacha.barber\Desktop\ScrollViewerTemplate\obj\Debug\ScrollViewerTemplate.pdb
+C:\Documents and Settings\sacha.barber\Desktop\ScrollViewerTemplate\bin\Debug\ScrollViewerTemplate.exe
+C:\Documents and Settings\sacha.barber\Desktop\ScrollViewerTemplate\bin\Debug\ScrollViewerTemplate.pdb
+C:\Documents and Settings\sacha.barber\Desktop\ScrollViewerTemplate\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sacha.barber\Desktop\ScrollViewerTemplate\obj\Debug\NewStyle.baml
+C:\Documents and Settings\sacha.barber\Desktop\ScrollViewerTemplate\obj\Debug\OriginalStyle.baml
+C:\Documents and Settings\sacha.barber\Desktop\ScrollViewerTemplate\obj\Debug\NewStyle.g.cs
+C:\Documents and Settings\sacha.barber\Desktop\ScrollViewerTemplate\obj\Debug\OriginalStyle.g.cs
+C:\Documents and Settings\sacha.barber\Desktop\ScrollViewerTemplate\obj\Debug\App.g.cs
+C:\Documents and Settings\sacha.barber\Desktop\ScrollViewerTemplate\obj\Debug\ScrollViewerTemplate_MarkupCompile.cache
+C:\Documents and Settings\sacha.barber\Desktop\ScrollViewerTemplate\obj\Debug\ScrollViewerTemplate.g.resources

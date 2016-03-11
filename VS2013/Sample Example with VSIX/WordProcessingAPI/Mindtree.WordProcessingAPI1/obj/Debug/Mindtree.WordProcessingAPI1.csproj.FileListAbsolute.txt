@@ -1,0 +1,4 @@
+C:\SANJAY\R&D\WordProcessingAPI\Mindtree.WordProcessingAPI1\bin\Debug\Mindtree.WordProcessingAPI.dll
+C:\SANJAY\R&D\WordProcessingAPI\Mindtree.WordProcessingAPI1\bin\Debug\Mindtree.WordProcessingAPI.pdb
+C:\SANJAY\R&D\WordProcessingAPI\Mindtree.WordProcessingAPI1\obj\Debug\Mindtree.WordProcessingAPI.dll
+C:\SANJAY\R&D\WordProcessingAPI\Mindtree.WordProcessingAPI1\obj\Debug\Mindtree.WordProcessingAPI.pdb

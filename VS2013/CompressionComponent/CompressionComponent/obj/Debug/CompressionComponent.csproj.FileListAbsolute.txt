@@ -1,0 +1,13 @@
+c:\users\m1025951\documents\visual studio 2013\Projects\CompressionComponent\CompressionComponent\bin\Debug\CompressionComponent.exe.config
+C:\Users\m1025951\documents\visual studio 2013\Projects\CompressionComponent\CompressionComponent\bin\Debug\CompressionComponent.exe
+C:\Users\m1025951\documents\visual studio 2013\Projects\CompressionComponent\CompressionComponent\bin\Debug\CompressionComponent.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\CompressionComponent\CompressionComponent\obj\Debug\CompressionComponent.csprojResolveAssemblyReference.cache
+C:\Users\m1025951\documents\visual studio 2013\Projects\CompressionComponent\CompressionComponent\obj\Debug\MainWindow.baml
+C:\Users\m1025951\documents\visual studio 2013\Projects\CompressionComponent\CompressionComponent\obj\Debug\MainWindow.g.cs
+C:\Users\m1025951\documents\visual studio 2013\Projects\CompressionComponent\CompressionComponent\obj\Debug\App.g.cs
+C:\Users\m1025951\documents\visual studio 2013\Projects\CompressionComponent\CompressionComponent\obj\Debug\CompressionComponent_MarkupCompile.cache
+C:\Users\m1025951\documents\visual studio 2013\Projects\CompressionComponent\CompressionComponent\obj\Debug\CompressionComponent.g.resources
+C:\Users\m1025951\documents\visual studio 2013\Projects\CompressionComponent\CompressionComponent\obj\Debug\CompressionComponent.Properties.Resources.resources
+C:\Users\m1025951\documents\visual studio 2013\Projects\CompressionComponent\CompressionComponent\obj\Debug\CompressionComponent.csproj.GenerateResource.Cache
+C:\Users\m1025951\documents\visual studio 2013\Projects\CompressionComponent\CompressionComponent\obj\Debug\CompressionComponent.exe
+C:\Users\m1025951\documents\visual studio 2013\Projects\CompressionComponent\CompressionComponent\obj\Debug\CompressionComponent.pdb

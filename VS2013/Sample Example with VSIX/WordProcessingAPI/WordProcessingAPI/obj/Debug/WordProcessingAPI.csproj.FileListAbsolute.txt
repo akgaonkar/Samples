@@ -1,0 +1,10 @@
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingAPI\bin\Debug\WordProcessingAPI.dll
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingAPI\bin\Debug\WordProcessingAPI.pdb
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingAPI\bin\Debug\DocumentFormat.OpenXml.dll
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingAPI\obj\Debug\WordProcessingAPI.dll
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingAPI\obj\Debug\WordProcessingAPI.pdb
+C:\SANJAY\R&D\WordProcessingAPI\WordProcessingAPI\bin\Debug\WordProcessingAPI.dll
+C:\SANJAY\R&D\WordProcessingAPI\WordProcessingAPI\bin\Debug\WordProcessingAPI.pdb
+C:\SANJAY\R&D\WordProcessingAPI\WordProcessingAPI\obj\Debug\WordProcessingAPI.dll
+C:\SANJAY\R&D\WordProcessingAPI\WordProcessingAPI\obj\Debug\WordProcessingAPI.pdb
+C:\SANJAY\R&D\WordProcessingAPI\WordProcessingAPI\obj\Debug\WordProcessingAPI.csprojResolveAssemblyReference.cache

@@ -1,0 +1,73 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div>
+    <h1>AD Details</h1>
+</div>
+
+<div class="row">
+    @*<p>Current User details:</p>*@
+
+    @*<p>@(ViewBag.UserDetails.AccountExpirationDate!=null?ViewBag.UserDetails.AccountExpirationDate.GetValueOrDefault().ToLongDateString():"Null")</p>
+        <p>@(ViewBag.UserDetails.AccountLockoutTime!=null?ViewBag.UserDetails.AccountLockoutTime.GetValueOrDefault().ToLongDateString():"Null")</p>
+        <p>@ViewBag.UserDetails.AllowReversiblePasswordEncryption</p>
+        <p>@ViewBag.UserDetails.BadLogonCount</p>*@
+    @*<p>@ViewBag.UserDetails.ContextType.ToString()</p>*@
+    @*<p>@ViewBag.UserDetails.DelegationPermitted</p>*@
+    @*<p>@ViewBag.UserDetails.Enabled.GetValueOrDefault()</p>*@
+    @*<p>@ViewBag.UserDetails.LastBadPasswordAttempt.ToLongDateString()</p>
+        <p>@ViewBag.UserDetails.LastLogon.ToLongDateString()</p>
+        <p>@ViewBag.UserDetails.LastPasswordSet.ToLongDateString()</p>*@
+    <p>@*@ViewBag.UserDetails.Name*@</p>
+    @*<p>@ViewBag.UserDetails.PasswordNeverExpires</p>
+        <p>@ViewBag.UserDetails.PasswordNotRequired</p>*@
+    @*<p>@ViewBag.UserDetails.SmartcardLogonRequired</p>*@
+
+    @*<p>@ViewBag.UserDetails.Description</p>
+        <p>@ViewBag.UserDetails.DisplayName</p>
+        <p>@ViewBag.UserDetails.DistinguishedName</p>
+        <p>@ViewBag.UserDetails.EmailAddress</p>
+        <p>@ViewBag.UserDetails.EmployeeId</p>
+        <p>@ViewBag.UserDetails.GivenName</p>
+        <p>@ViewBag.UserDetails.HomeDirectory</p>
+        <p>@ViewBag.UserDetails.HomeDrive</p>
+        <p>@ViewBag.UserDetails.MiddleName</p>
+        <p>@ViewBag.UserDetails.SamAccountName</p>
+        <p>@ViewBag.UserDetails.ScriptPath</p>
+        <p>@ViewBag.UserDetails.Surname</p>
+        <p>@ViewBag.UserDetails.UserCannotChangePassword</p>
+        <p>@ViewBag.UserDetails.UserPrincipalName</p>
+        <p>@ViewBag.UserDetails.VoiceTelephoneNumber</p>*@
+
+</div>
+<hr />
+<div class="row">
+    <dl>
+        <dt>Name</dt>
+        <dd>@ViewBag.UserDetails.Properties["name"].Value</dd>
+        <dt>Role</dt>
+        <dd>@ViewBag.UserDetails.Properties["title"].Value</dd>
+        <dt>Department</dt>
+        <dd>@ViewBag.UserDetails.Properties["department"].Value</dd>
+        <dt>Division</dt>
+        <dd>@ViewBag.UserDetails.Properties["division"].Value</dd>
+        <dt>Thumbnail</dt>
+        <dd><img src="@Url.Action("GetImage", "Home", new { mid = User.Identity.Name })" alt="@ViewBag.UserDetails.Properties["name"].Value" /></dd>
+    </dl>
+    <hr />
+    <h3>Full user data</h3>
+    <table>
+        <tbody>
+            @foreach (var item in ViewBag.UserDetails.Properties.PropertyNames)
+            {
+                <tr>
+                    <td>@item</td>
+                    <td>@ViewBag.UserDetails.Properties[item].Value</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+<hr />

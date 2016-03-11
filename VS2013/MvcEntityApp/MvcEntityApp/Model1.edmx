@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl" Namespace="Model1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005">
+        <EntityContainer Name="Model1TargetContainer" >
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+        <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Movies" EntityType="Model1.Movie" />
+          <EntitySet Name="Shows" EntityType="Model1.Show" />
+          <EntitySet Name="SeatingTypes" EntityType="Model1.SeatingType" />
+          <EntitySet Name="Cities" EntityType="Model1.City" />
+          <EntitySet Name="Theaters" EntityType="Model1.Theater" />
+          <EntitySet Name="Users1" EntityType="Model1.User" />
+          <EntitySet Name="Seats" EntityType="Model1.Seat" />
+          <EntitySet Name="Bookings" EntityType="Model1.Booking" />
+          <EntitySet Name="SeatingDetails" EntityType="Model1.SeatingDetails" />
+          <AssociationSet Name="MovieShow" Association="Model1.MovieShow">
+            <End Role="Movie" EntitySet="Movies" />
+            <End Role="Show" EntitySet="Shows" />
+          </AssociationSet>
+          <AssociationSet Name="TheaterShow" Association="Model1.TheaterShow">
+            <End Role="Theater" EntitySet="Theaters" />
+            <End Role="Show" EntitySet="Shows" />
+          </AssociationSet>
+          <AssociationSet Name="CityTheater" Association="Model1.CityTheater">
+            <End Role="City" EntitySet="Cities" />
+            <End Role="Theater" EntitySet="Theaters" />
+          </AssociationSet>
+          <AssociationSet Name="CityUser" Association="Model1.CityUser">
+            <End Role="City" EntitySet="Cities" />
+            <End Role="User" EntitySet="Users1" />
+          </AssociationSet>
+          <AssociationSet Name="SeatingTypeSeat" Association="Model1.SeatingTypeSeat">
+            <End Role="SeatingType" EntitySet="SeatingTypes" />
+            <End Role="Seat" EntitySet="Seats" />
+          </AssociationSet>
+          <AssociationSet Name="SeatSeatingDetails" Association="Model1.SeatSeatingDetails">
+            <End Role="Seat" EntitySet="Seats" />
+            <End Role="SeatingDetails" EntitySet="SeatingDetails" />
+          </AssociationSet>
+          <EntitySet Name="Status" EntityType="Model1.Status" />
+          <AssociationSet Name="BookingStatus" Association="Model1.BookingStatus">
+            <End Role="Booking" EntitySet="Bookings" />
+            <End Role="Status" EntitySet="Status" />
+          </AssociationSet>
+          <AssociationSet Name="UserBooking" Association="Model1.UserBooking">
+            <End Role="User" EntitySet="Users1" />
+            <End Role="Booking" EntitySet="Bookings" />
+          </AssociationSet>
+          <AssociationSet Name="BookingSeatingDetails" Association="Model1.BookingSeatingDetails">
+            <End Role="Booking" EntitySet="Bookings" />
+            <End Role="SeatingDetails" EntitySet="SeatingDetails" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Movie">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Title" Type="String" Nullable="false" />
+          <Property Name="Description" Type="String" Nullable="false" />
+          <Property Name="Rating" Type="String" Nullable="false" />
+          <NavigationProperty Name="Shows" Relationship="Model1.MovieShow" FromRole="Movie" ToRole="Show" />
+        </EntityType>
+        <EntityType Name="Show">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="StartTime" Type="String" Nullable="false" />
+          <Property Name="EndTime" Type="String" Nullable="false" />
+          <NavigationProperty Name="Movie" Relationship="Model1.MovieShow" FromRole="Show" ToRole="Movie" />
+          <Property Name="MovieId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Theater" Relationship="Model1.TheaterShow" FromRole="Show" ToRole="Theater" />
+          <Property Name="TheaterId" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="SeatingType">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" />
+          <Property Name="Cost" Type="String" Nullable="false" />
+          <NavigationProperty Name="Seats" Relationship="Model1.SeatingTypeSeat" FromRole="SeatingType" ToRole="Seat" />
+        </EntityType>
+        <EntityType Name="City">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" />
+          <NavigationProperty Name="Theaters" Relationship="Model1.CityTheater" FromRole="City" ToRole="Theater" />
+          <NavigationProperty Name="Users" Relationship="Model1.CityUser" FromRole="City" ToRole="User" />
+        </EntityType>
+        <EntityType Name="Theater">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" />
+          <NavigationProperty Name="Shows" Relationship="Model1.TheaterShow" FromRole="Theater" ToRole="Show" />
+          <NavigationProperty Name="City" Relationship="Model1.CityTheater" FromRole="Theater" ToRole="City" />
+          <Property Name="CityId" Nullable="false" Type="Int32" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" />
+          <NavigationProperty Name="City" Relationship="Model1.CityUser" FromRole="User" ToRole="City" />
+          <Property Name="CityId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Bookings" Relationship="Model1.UserBooking" FromRole="User" ToRole="Booking" />
+        </EntityType>
+        <EntityType Name="Seat">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Number" Type="String" Nullable="false" />
+          <Property Name="TheaterId" Type="String" Nullable="false" />
+          <NavigationProperty Name="SeatingType" Relationship="Model1.SeatingTypeSeat" FromRole="Seat" ToRole="SeatingType" />
+          <Property Name="SeatingTypeId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="SeatingDetails" Relationship="Model1.SeatSeatingDetails" FromRole="Seat" ToRole="SeatingDetails" />
+        </EntityType>
+        <EntityType Name="Booking">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Number" Type="String" Nullable="false" />
+          <Property Name="Time" Type="String" Nullable="false" />
+          <NavigationProperty Name="Status" Relationship="Model1.BookingStatus" FromRole="Booking" ToRole="Status" />
+          <Property Name="StatusId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="User" Relationship="Model1.UserBooking" FromRole="Booking" ToRole="User" />
+          <Property Name="UserId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="SeatingDetails" Relationship="Model1.BookingSeatingDetails" FromRole="Booking" ToRole="SeatingDetails" />
+        </EntityType>
+        <EntityType Name="SeatingDetails">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <NavigationProperty Name="Seat" Relationship="Model1.SeatSeatingDetails" FromRole="SeatingDetails" ToRole="Seat" />
+          <Property Name="SeatId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Booking" Relationship="Model1.BookingSeatingDetails" FromRole="SeatingDetails" ToRole="Booking" />
+          <Property Name="BookingId" Type="Int32" Nullable="false" />
+        </EntityType>
+        <Association Name="MovieShow">
+          <End Type="Model1.Movie" Role="Movie" Multiplicity="1" />
+          <End Type="Model1.Show" Role="Show" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Movie">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Show">
+              <PropertyRef Name="MovieId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="TheaterShow">
+          <End Type="Model1.Theater" Role="Theater" Multiplicity="1" />
+          <End Type="Model1.Show" Role="Show" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Theater">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Show">
+              <PropertyRef Name="TheaterId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="CityTheater">
+          <End Type="Model1.City" Role="City" Multiplicity="1" />
+          <End Type="Model1.Theater" Role="Theater" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="City">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Theater">
+              <PropertyRef Name="CityId1" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="CityUser">
+          <End Type="Model1.City" Role="City" Multiplicity="1" />
+          <End Type="Model1.User" Role="User" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="City">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="User">
+              <PropertyRef Name="CityId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="SeatingTypeSeat">
+          <End Type="Model1.SeatingType" Role="SeatingType" Multiplicity="1" />
+          <End Type="Model1.Seat" Role="Seat" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="SeatingType">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Seat">
+              <PropertyRef Name="SeatingTypeId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="SeatSeatingDetails">
+          <End Type="Model1.Seat" Role="Seat" Multiplicity="1" />
+          <End Type="Model1.SeatingDetails" Role="SeatingDetails" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Seat">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="SeatingDetails">
+              <PropertyRef Name="SeatId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Status">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" />
+          <NavigationProperty Name="Bookings" Relationship="Model1.BookingStatus" FromRole="Status" ToRole="Booking" />
+        </EntityType>
+        <Association Name="BookingStatus">
+          <End Type="Model1.Booking" Role="Booking" Multiplicity="*" />
+          <End Type="Model1.Status" Role="Status" Multiplicity="1" />
+          <ReferentialConstraint>
+            <Principal Role="Status">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Booking">
+              <PropertyRef Name="StatusId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="UserBooking">
+          <End Type="Model1.User" Role="User" Multiplicity="1" />
+          <End Type="Model1.Booking" Role="Booking" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Booking">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="BookingSeatingDetails">
+          <End Type="Model1.Booking" Role="Booking" Multiplicity="1" />
+          <End Type="Model1.SeatingDetails" Role="SeatingDetails" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Booking">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="SeatingDetails">
+              <PropertyRef Name="BookingId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs" Space="C-S">
+        <Alias Key="Model" Value="Model1" />
+        <Alias Key="Target" Value="Model1.Store" />
+        <EntityContainerMapping CdmEntityContainer="Model1Container" StorageEntityContainer="Model1TargetContainer">
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

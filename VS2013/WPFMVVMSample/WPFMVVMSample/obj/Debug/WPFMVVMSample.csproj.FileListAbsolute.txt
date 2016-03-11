@@ -1,0 +1,15 @@
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFMVVMSample\WPFMVVMSample\bin\Debug\WPFMVVMSample.exe.config
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFMVVMSample\WPFMVVMSample\bin\Debug\WPFMVVMSample.exe
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFMVVMSample\WPFMVVMSample\bin\Debug\WPFMVVMSample.pdb
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFMVVMSample\WPFMVVMSample\obj\Debug\WPFMVVMSample.csprojResolveAssemblyReference.cache
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFMVVMSample\WPFMVVMSample\obj\Debug\MainWindow.baml
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFMVVMSample\WPFMVVMSample\obj\Debug\MainWindow.g.cs
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFMVVMSample\WPFMVVMSample\obj\Debug\App.g.cs
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFMVVMSample\WPFMVVMSample\obj\Debug\WPFMVVMSample_MarkupCompile.cache
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFMVVMSample\WPFMVVMSample\obj\Debug\WPFMVVMSample.g.resources
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFMVVMSample\WPFMVVMSample\obj\Debug\WPFMVVMSample.Properties.Resources.resources
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFMVVMSample\WPFMVVMSample\obj\Debug\WPFMVVMSample.csproj.GenerateResource.Cache
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFMVVMSample\WPFMVVMSample\obj\Debug\WPFMVVMSample.exe
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFMVVMSample\WPFMVVMSample\obj\Debug\WPFMVVMSample.pdb
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFMVVMSample\WPFMVVMSample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\m1025951\documents\visual studio 2013\Projects\WPFMVVMSample\WPFMVVMSample\obj\Debug\WPFMVVMSample_MarkupCompile.lref

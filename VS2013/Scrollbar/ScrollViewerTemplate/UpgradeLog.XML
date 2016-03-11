@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ScrollViewerTemplate">
+</Property><Property Name="Solution File" Value="F:\ScrollViewerTemplate\ScrollViewerTemplate\ScrollViewerTemplate.sln">
+</Property><Property Name="Date" Value="11 January 2008">
+</Property><Property Name="Time" Value="08:44:36">
+</Property></Properties><Event ErrorLevel="0" Project="ScrollViewerTemplate" Source="ScrollViewerTemplate.csproj" Description="Project file successfully backed up as F:\ScrollViewerTemplate\ScrollViewerTemplate\Backup\ScrollViewerTemplate.csproj">
+</Event><Event ErrorLevel="0" Project="ScrollViewerTemplate" Source="App.xaml.cs" Description="File successfully backed up as F:\ScrollViewerTemplate\ScrollViewerTemplate\Backup\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="ScrollViewerTemplate" Source="AssemblyInfo.cs" Description="File successfully backed up as F:\ScrollViewerTemplate\ScrollViewerTemplate\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ScrollViewerTemplate" Source="Window1.xaml.cs" Description="File successfully backed up as F:\ScrollViewerTemplate\ScrollViewerTemplate\Backup\Window1.xaml.cs">
+</Event><Event ErrorLevel="0" Project="ScrollViewerTemplate" Source="Window2.xaml.cs" Description="File successfully backed up as F:\ScrollViewerTemplate\ScrollViewerTemplate\Backup\Window2.xaml.cs">
+</Event><Event ErrorLevel="0" Project="ScrollViewerTemplate" Source="App.xaml" Description="File successfully backed up as F:\ScrollViewerTemplate\ScrollViewerTemplate\Backup\App.xaml">
+</Event><Event ErrorLevel="0" Project="ScrollViewerTemplate" Source="Window1.xaml" Description="File successfully backed up as F:\ScrollViewerTemplate\ScrollViewerTemplate\Backup\Window1.xaml">
+</Event><Event ErrorLevel="0" Project="ScrollViewerTemplate" Source="Window2.xaml" Description="File successfully backed up as F:\ScrollViewerTemplate\ScrollViewerTemplate\Backup\Window2.xaml">
+</Event><Event ErrorLevel="0" Project="ScrollViewerTemplate" Source="ScrollViewerTemplate.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ScrollViewerTemplate" Source="ScrollViewerTemplate.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ScrollViewerTemplate" Source="ScrollViewerTemplate.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

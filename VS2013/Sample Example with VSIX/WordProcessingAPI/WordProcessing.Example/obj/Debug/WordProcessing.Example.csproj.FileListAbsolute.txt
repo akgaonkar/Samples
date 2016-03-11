@@ -1,0 +1,26 @@
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\obj\Debug\WordProcessing.Example.frmWordProcessing.resources
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\obj\Debug\WordProcessing.Example.Properties.Resources.resources
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\obj\Debug\WordProcessing.Example.csproj.GenerateResource.Cache
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\bin\Debug\WordProcessing.Example.exe.config
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\bin\Debug\WordProcessing.Example.exe
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\bin\Debug\WordProcessing.Example.pdb
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\bin\Debug\WordProcessingAPI.dll
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\bin\Debug\DocumentFormat.OpenXml.dll
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\bin\Debug\WordProcessingAPI.pdb
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\obj\Debug\WordProcessing.Example.exe
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\obj\Debug\WordProcessing.Example.pdb
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\obj\Debug\WordProcessing.Example.csprojResolveAssemblyReference.cache
+C:\SANJAY\R&D\WordProcessingAPI\WordProcessing.Example\bin\Debug\Mindtree.WordProcessingAPI.dll
+C:\SANJAY\R&D\WordProcessingAPI\WordProcessing.Example\bin\Debug\Mindtree.WordProcessingAPI.pdb
+C:\SANJAY\R&D\WordProcessingAPI\WordProcessing.Example\obj\Debug\WordProcessing.Example.csprojResolveAssemblyReference.cache
+C:\SANJAY\R&D\WordProcessingAPI\WordProcessing.Example\obj\Debug\WordProcessing.Example.frmWordProcessing.resources
+C:\SANJAY\R&D\WordProcessingAPI\WordProcessing.Example\obj\Debug\WordProcessing.Example.Properties.Resources.resources
+C:\SANJAY\R&D\WordProcessingAPI\WordProcessing.Example\obj\Debug\WordProcessing.Example.csproj.GenerateResource.Cache
+C:\SANJAY\R&D\WordProcessingAPI\WordProcessing.Example\obj\Debug\WordProcessing.Example.exe
+C:\SANJAY\R&D\WordProcessingAPI\WordProcessing.Example\obj\Debug\WordProcessing.Example.pdb
+C:\SANJAY\R&D\WordProcessingAPI\WordProcessing.Example\bin\Debug\WordProcessing.Example.exe.config
+C:\SANJAY\R&D\WordProcessingAPI\WordProcessing.Example\bin\Debug\WordProcessing.Example.exe
+C:\SANJAY\R&D\WordProcessingAPI\WordProcessing.Example\bin\Debug\WordProcessing.Example.pdb
+D:\Project\Sample Example with VSIX\WordProcessingAPI\WordProcessing.Example\bin\Debug\WordProcessing.Example.exe.config
+D:\Project\Sample Example with VSIX\WordProcessingAPI\WordProcessing.Example\obj\Debug\WordProcessing.Example.exe
+D:\Project\Sample Example with VSIX\WordProcessingAPI\WordProcessing.Example\obj\Debug\WordProcessing.Example.pdb

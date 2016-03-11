@@ -1,0 +1,12 @@
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\bin\Debug\WordProcessingUI.exe.config
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\bin\Debug\WordProcessingUI.exe
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\bin\Debug\WordProcessingUI.pdb
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\obj\Debug\WordProcessingUI.frmWordProcessing.resources
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\obj\Debug\WordProcessingUI.Properties.Resources.resources
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\obj\Debug\WordProcessingUI.csproj.GenerateResource.Cache
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\obj\Debug\WordProcessingUI.exe
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\obj\Debug\WordProcessingUI.pdb
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\obj\Debug\WordProcessingUI.csprojResolveAssemblyReference.cache
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\bin\Debug\WordProcessingAPI.dll
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\bin\Debug\DocumentFormat.OpenXml.dll
+C:\SANJAY\R&D\WordProcessingUI\WordProcessingUI\bin\Debug\WordProcessingAPI.pdb

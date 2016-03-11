@@ -1,0 +1,6 @@
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\DelegateCalculator\bin\Debug\DelegateCalculator.dll.config
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\DelegateCalculator\bin\Debug\DelegateCalculator.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\DelegateCalculator\bin\Debug\DelegateCalculator.pdb
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\DelegateCalculator\obj\Debug\DelegateCalculator.csprojResolveAssemblyReference.cache
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\DelegateCalculator\obj\Debug\DelegateCalculator.dll
+C:\Users\m1025951\documents\visual studio 2013\Projects\DesignPatterns\DelegateCalculator\obj\Debug\DelegateCalculator.pdb

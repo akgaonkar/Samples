@@ -1,0 +1,410 @@
+﻿<Window x:Class="DockableVsExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="clr-namespace:Controls;assembly=Controls"
+        Title="MainWindow" Height="800" Width="1024">
+    <Window.Resources>
+        <RadialGradientBrush 
+            x:Key="myColorfulLabelBrush"
+            RadiusX="0.5"
+            RadiusY="1"
+            >
+            <GradientStop Color="#CC0D1000" Offset="0.1"/>
+            <GradientStop Color="CadetBlue" Offset="0.9"/>
+        </RadialGradientBrush>
+        <RadialGradientBrush 
+            x:Key="myColorfulBorderBrush"
+            RadiusX="0.4"
+            RadiusY="0.6"
+            >
+            <GradientStop Color="#CC3D2614" Offset="0.3"/>
+            <GradientStop Color="Gold" Offset="0.8"/>
+        </RadialGradientBrush>
+    </Window.Resources>
+    <DockPanel >
+        <DockPanel.BitmapEffect>
+            <BevelBitmapEffect  BevelWidth="15" EdgeProfile="BulgedUp"/>
+        </DockPanel.BitmapEffect>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem  Header="File">
+                File
+            </MenuItem>
+            <MenuItem  Header="Edit">
+                Edit
+            </MenuItem>
+            <MenuItem  Header="View">
+                View
+            </MenuItem>
+            <MenuItem  Header="Project">
+                Project
+            </MenuItem>
+            <MenuItem  Header="Build">
+                Build
+            </MenuItem>
+            <MenuItem  Header="Data">
+                Data
+            </MenuItem>
+            <MenuItem  Header="Tools">
+                Tools
+            </MenuItem>
+            <MenuItem  Header="Window">
+                Window
+            </MenuItem>
+            <MenuItem  Header="Community">
+                Community
+            </MenuItem>
+            <MenuItem  Header="Help">
+                Help
+            </MenuItem>
+        </Menu>
+        <Border
+            DockPanel.Dock="Top"
+            BorderBrush="{StaticResource myColorfulBorderBrush}"
+            BorderThickness="0">
+            <Label 
+                Background="{StaticResource myColorfulLabelBrush}" 
+                Foreground="Wheat"
+                FontWeight="ExtraBlack"
+                FontSize="16"
+                HorizontalContentAlignment="Center">
+                Docking Yeahhh!!!!
+            </Label>
+            <Border.BitmapEffect>
+                <EmbossBitmapEffect  />
+            </Border.BitmapEffect>
+        </Border>
+        <StatusBar 
+            DockPanel.Dock="Bottom" 
+            Background="{StaticResource myColorfulLabelBrush}"
+            Height="15"/>
+        <controls:LayeredGrid
+                                Grid.Row="1" 
+                                Grid.Column="2"
+                                Grid.RowSpan="3">
+            <controls:LayeredGrid.Layers>
+                <controls:Layer Level="2" Orientation="Row" Name="Text Manager 2">
+                    <controls:Layer.Content>
+                        <controls:LayeredGrid>
+                            <controls:LayeredGrid.Layers>
+                                <controls:Layer Level="1" Orientation="Row" Name="Logger">
+                                    <controls:Layer.Content>
+                                        <ListBox  
+                                                            MinHeight="60"
+                                                                >
+                                            <ListBoxItem Content="{Binding Title}"></ListBoxItem>
+                                        </ListBox>
+                                    </controls:Layer.Content>
+                                </controls:Layer>
+                                <controls:Layer Level="1" Orientation="Column" Name="Solution Explorer" ColumnLocation="Right">
+                                    <controls:Layer.Content>
+                                        <Grid >
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="Auto"/>
+                                                <RowDefinition />
+                                            </Grid.RowDefinitions>
+                                            <ToolBar Grid.Row="0">
+                                                <ToggleButton >
+                                                    <Image Source="Images\Home-icon.png"/>
+                                                </ToggleButton>
+                                                <ToggleButton>
+                                                    <Image Source="Images\Next-icon.png"/>
+                                                </ToggleButton>
+                                                <ToggleButton>
+                                                    <Image Source="Images\Next-icon.png">
+                                                        <Image.LayoutTransform>
+                                                            <RotateTransform Angle="180"/>
+                                                        </Image.LayoutTransform>
+                                                    </Image>
+                                                </ToggleButton>
+                                            </ToolBar>
+                                            <TreeView 
+		                                                        Grid.Row="1"
+		                                                        >
+                                                <TreeViewItem Header="Solution Explorer">
+                                                    <TreeViewItem Header="Project #1"></TreeViewItem>
+                                                    <TreeViewItem Header="Project #2"></TreeViewItem>
+                                                    <TreeViewItem Header="Project #3"></TreeViewItem>
+                                                    <TreeViewItem Header="Project #1"></TreeViewItem>
+                                                    <TreeViewItem Header="Project #2"></TreeViewItem>
+                                                    <TreeViewItem Header="Project #3"></TreeViewItem>
+                                                    <TreeViewItem Header="Project #1"></TreeViewItem>
+                                                    <TreeViewItem Header="Project #2"></TreeViewItem>
+                                                    <TreeViewItem Header="Project #3"></TreeViewItem>
+                                                    <TreeViewItem Header="Project #1"></TreeViewItem>
+                                                    <TreeViewItem Header="Project #2"></TreeViewItem>
+                                                    <TreeViewItem Header="Project #3"></TreeViewItem>
+                                                    <TreeViewItem Header="Project #1"></TreeViewItem>
+                                                    <TreeViewItem Header="Project #2"></TreeViewItem>
+                                                    <TreeViewItem Header="Project #3"></TreeViewItem>
+                                                </TreeViewItem>
+                                            </TreeView>
+                                        </Grid>
+                                    </controls:Layer.Content>
+                                </controls:Layer>
+                                <controls:Layer Level="2" Orientation="Column" Name="Toolbox">
+                                    <controls:Layer.Content>
+                                        <ListBox >
+                                            <ListBoxItem>Button</ListBoxItem>
+                                            <ListBoxItem>Label</ListBoxItem>
+                                            <ListBoxItem>CheckBox</ListBoxItem>
+                                            <ListBoxItem>ListBox</ListBoxItem>
+                                        </ListBox>
+                                    </controls:Layer.Content>
+                                </controls:Layer>
+                                <controls:Layer Level="3" Orientation="Column" Name="Toolbox Manager">
+                                    <controls:Layer.Content>
+                                        <ListBox >
+                                            <ListBoxItem>Button</ListBoxItem>
+                                            <ListBoxItem>Label</ListBoxItem>
+                                            <ListBoxItem>CheckBox</ListBoxItem>
+                                            <ListBoxItem>ListBox</ListBoxItem>
+                                        </ListBox>
+                                    </controls:Layer.Content>
+                                </controls:Layer>
+                                <controls:Layer Level="4" Orientation="Column" Name="Numbers">
+                                    <controls:Layer.Content>
+                                        <ListBox >
+                                            <ListBoxItem>1</ListBoxItem>
+                                            <ListBoxItem>2</ListBoxItem>
+                                            <ListBoxItem>3</ListBoxItem>
+                                            <ListBoxItem>4</ListBoxItem>
+                                        </ListBox>
+                                    </controls:Layer.Content>
+                                </controls:Layer>
+                                <controls:Layer Level="5" Orientation="Column" Name="Names">
+                                    <controls:Layer.Content>
+                                        <ListBox >
+                                            <ListBoxItem>Ty</ListBoxItem>
+                                            <ListBoxItem>Tayo</ListBoxItem>
+                                            <ListBoxItem>Temitayo</ListBoxItem>
+                                            <ListBoxItem>Lauren</ListBoxItem>
+                                        </ListBox>
+                                    </controls:Layer.Content>
+                                </controls:Layer>
+                                <controls:Layer Level="0" >
+                                    <controls:Layer.Content>
+                                        <ListBox
+                                                HorizontalAlignment="Stretch"
+                                                VerticalAlignment="Stretch"
+                                                BorderBrush="Wheat">
+                                            <ListBoxItem>Article #1</ListBoxItem>
+                                            <ListBoxItem>Article #2</ListBoxItem>
+                                            <ListBoxItem>Article #3</ListBoxItem>
+                                            <ListBoxItem>Article #4</ListBoxItem>
+                                        </ListBox>
+                                    </controls:Layer.Content>
+
+                                </controls:Layer>
+                            </controls:LayeredGrid.Layers>
+                        </controls:LayeredGrid>
+                    </controls:Layer.Content>
+                </controls:Layer>
+                <controls:Layer Level="1" Orientation="Column" Name="Solution Explorer" ColumnLocation="Right">
+                    <controls:Layer.Content>
+                        <Grid >
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition />
+                            </Grid.RowDefinitions>
+                            <ToolBar Grid.Row="0">
+                                <ToggleButton >
+                                    <Image Source="Images\Home-icon.png"/>
+                                </ToggleButton>
+                                <ToggleButton>
+                                    <Image Source="Images\Next-icon.png"/>
+                                </ToggleButton>
+                                <ToggleButton>
+                                    <Image Source="Images\Next-icon.png">
+                                        <Image.LayoutTransform>
+                                            <RotateTransform Angle="180"/>
+                                        </Image.LayoutTransform>
+                                    </Image>
+                                </ToggleButton>
+                            </ToolBar>
+                            <TreeView 
+		                        Grid.Row="1"
+		                        >
+                                <TreeViewItem Header="Solution Explorer">
+                                    <TreeViewItem Header="Project #1"></TreeViewItem>
+                                    <TreeViewItem Header="Project #2"></TreeViewItem>
+                                    <TreeViewItem Header="Project #3"></TreeViewItem>
+                                    <TreeViewItem Header="Project #1"></TreeViewItem>
+                                    <TreeViewItem Header="Project #2"></TreeViewItem>
+                                    <TreeViewItem Header="Project #3"></TreeViewItem>
+                                    <TreeViewItem Header="Project #1"></TreeViewItem>
+                                    <TreeViewItem Header="Project #2"></TreeViewItem>
+                                    <TreeViewItem Header="Project #3"></TreeViewItem>
+                                    <TreeViewItem Header="Project #1"></TreeViewItem>
+                                    <TreeViewItem Header="Project #2"></TreeViewItem>
+                                    <TreeViewItem Header="Project #3"></TreeViewItem>
+                                    <TreeViewItem Header="Project #1"></TreeViewItem>
+                                    <TreeViewItem Header="Project #2"></TreeViewItem>
+                                    <TreeViewItem Header="Project #3"></TreeViewItem>
+                                </TreeViewItem>
+                            </TreeView>
+                        </Grid>
+                    </controls:Layer.Content>
+                </controls:Layer>
+                <controls:Layer Level="2" Orientation="Column" Name="Explorer" ColumnLocation="Right">
+                    <controls:Layer.Content>
+                        <Grid >
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition />
+                            </Grid.RowDefinitions>
+                            <ToolBar Grid.Row="0">
+                                <ToggleButton >
+                                    <Image Source="Images\Home-icon.png"/>
+                                </ToggleButton>
+                                <ToggleButton>
+                                    <Image Source="Images\Next-icon.png"/>
+                                </ToggleButton>
+                                <ToggleButton>
+                                    <Image Source="Images\Next-icon.png">
+                                        <Image.LayoutTransform>
+                                            <RotateTransform Angle="180"/>
+                                        </Image.LayoutTransform>
+                                    </Image>
+                                </ToggleButton>
+                            </ToolBar>
+                            <TreeView 
+		                        Grid.Row="1"
+		                        >
+                                <TreeViewItem Header="Explorer">
+                                    <TreeViewItem Header="Project #1"></TreeViewItem>
+                                    <TreeViewItem Header="Project #2"></TreeViewItem>
+                                    <TreeViewItem Header="Project #3"></TreeViewItem>
+                                    <TreeViewItem Header="Project #4"></TreeViewItem>
+                                    <TreeViewItem Header="Project #5"></TreeViewItem>
+                                    <TreeViewItem Header="Project #6"></TreeViewItem>
+                                    <TreeViewItem Header="Project #7"></TreeViewItem>
+                                    <TreeViewItem Header="Project #8"></TreeViewItem>
+                                    <TreeViewItem Header="Project #9"></TreeViewItem>
+                                    <TreeViewItem Header="Project #10"></TreeViewItem>
+                                    <TreeViewItem Header="Project #11"></TreeViewItem>
+                                    <TreeViewItem Header="Project #3"></TreeViewItem>
+                                    <TreeViewItem Header="Project #1"></TreeViewItem>
+                                    <TreeViewItem Header="Project #2"></TreeViewItem>
+                                    <TreeViewItem Header="Project #3"></TreeViewItem>
+                                </TreeViewItem>
+                            </TreeView>
+                        </Grid>
+                    </controls:Layer.Content>
+                </controls:Layer>
+                <controls:Layer Level="3" Orientation="Column" Name="Toolbox">
+                    <controls:Layer.Content>
+                        <ListBox >
+                            <ListBoxItem>Button</ListBoxItem>
+                            <ListBoxItem>Label</ListBoxItem>
+                            <ListBoxItem>CheckBox</ListBoxItem>
+                            <ListBoxItem>ListBox</ListBoxItem>
+                        </ListBox>
+                    </controls:Layer.Content>
+                </controls:Layer>
+                <controls:Layer Level="4" Orientation="Column" Name="Toolbox Manager">
+                    <controls:Layer.Content>
+                        <ListBox >
+                            <ListBoxItem>Button</ListBoxItem>
+                            <ListBoxItem>Label</ListBoxItem>
+                            <ListBoxItem>CheckBox</ListBoxItem>
+                            <ListBoxItem>ListBox</ListBoxItem>
+                        </ListBox>
+                    </controls:Layer.Content>
+                </controls:Layer>
+                <controls:Layer Level="5" Orientation="Column" Name="Numbers">
+                    <controls:Layer.Content>
+                        <ListBox >
+                            <ListBoxItem>1</ListBoxItem>
+                            <ListBoxItem>2</ListBoxItem>
+                            <ListBoxItem>3</ListBoxItem>
+                            <ListBoxItem>4</ListBoxItem>
+                        </ListBox>
+                    </controls:Layer.Content>
+                </controls:Layer>
+                <controls:Layer Level="6" Orientation="Column" Name="Names">
+                    <controls:Layer.Content>
+                        <ListBox >
+                            <ListBoxItem>Ty</ListBoxItem>
+                            <ListBoxItem>Tayo</ListBoxItem>
+                            <ListBoxItem>Temitayo</ListBoxItem>
+                            <ListBoxItem>Lauren</ListBoxItem>
+                        </ListBox>
+                    </controls:Layer.Content>
+                </controls:Layer>
+                <controls:Layer Level="1" Orientation="Row" Name="Text Manager">
+                    <controls:Layer.Content>
+                        <ListBox  
+                            MinHeight="60"
+                                >
+                            <ListBoxItem Content="{Binding Title}"></ListBoxItem>
+                        </ListBox>
+                    </controls:Layer.Content>
+                </controls:Layer>
+                <controls:Layer Level="0" >
+                    <controls:Layer.Content>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Grid 
+                                Grid.Column="0"
+                                Grid.Row="0" 
+                                Grid.RowSpan="4"
+                                Background="White"></Grid>
+                            <GroupBox   
+                                Grid.Row="1" 
+                                Grid.Column="0"
+                                Background="White"
+                                VerticalAlignment="Stretch"
+                                VerticalContentAlignment="Stretch"
+                                Header="Recent Projects">…
+                            </GroupBox>
+                            <GroupBox
+                                Grid.Row="2" 
+                                Grid.Column="0"
+                                Background="White"
+                                Header ="Getting Started"
+                                >
+                                …
+                            </GroupBox>
+                            <GroupBox
+                                Grid.Row="3" 
+                                Grid.Column="0"
+                                Background="White"
+                                Header="Headlines">…
+                            </GroupBox>
+                            <GridSplitter 
+                                Width="2" 
+                                Grid.Row="0"
+                                Grid.Column="1" 
+                                Grid.RowSpan="4"
+                                Background="Transparent"
+                                HorizontalAlignment="Left" />
+                            <ListBox
+                                Grid.Column="2"
+                                Grid.Row="0"
+                                Grid.RowSpan="4"
+                                HorizontalAlignment="Stretch"
+                                VerticalAlignment="Stretch"
+                                BorderBrush="CadetBlue">
+                                <ListBoxItem>Article #1</ListBoxItem>
+                                <ListBoxItem>Article #2</ListBoxItem>
+                                <ListBoxItem>Article #3</ListBoxItem>
+                                <ListBoxItem>Article #4</ListBoxItem>
+                            </ListBox>
+                        </Grid>
+                    </controls:Layer.Content>
+
+                </controls:Layer>
+            </controls:LayeredGrid.Layers>
+        </controls:LayeredGrid>
+    </DockPanel>
+</Window>

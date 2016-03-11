@@ -1,0 +1,14 @@
+D:\PROJECTS\VS2013\Adorner\ImprovedAdornedControlSample\bin\Debug\AdornedControlSample.exe
+D:\PROJECTS\VS2013\Adorner\ImprovedAdornedControlSample\bin\Debug\AdornedControlSample.pdb
+D:\PROJECTS\VS2013\Adorner\ImprovedAdornedControlSample\bin\Debug\AdornedControl.dll
+D:\PROJECTS\VS2013\Adorner\ImprovedAdornedControlSample\bin\Debug\AdornedControl.pdb
+D:\PROJECTS\VS2013\Adorner\ImprovedAdornedControlSample\obj\Debug\ImprovedAdornedControlSample.csprojResolveAssemblyReference.cache
+D:\PROJECTS\VS2013\Adorner\ImprovedAdornedControlSample\obj\Debug\Window1.baml
+D:\PROJECTS\VS2013\Adorner\ImprovedAdornedControlSample\obj\Debug\Window1.g.cs
+D:\PROJECTS\VS2013\Adorner\ImprovedAdornedControlSample\obj\Debug\App.g.cs
+D:\PROJECTS\VS2013\Adorner\ImprovedAdornedControlSample\obj\Debug\AdornedControlSample_MarkupCompile.cache
+D:\PROJECTS\VS2013\Adorner\ImprovedAdornedControlSample\obj\Debug\AdornedControlSample.g.resources
+D:\PROJECTS\VS2013\Adorner\ImprovedAdornedControlSample\obj\Debug\AdornedControlSample.Properties.Resources.resources
+D:\PROJECTS\VS2013\Adorner\ImprovedAdornedControlSample\obj\Debug\ImprovedAdornedControlSample.csproj.GenerateResource.Cache
+D:\PROJECTS\VS2013\Adorner\ImprovedAdornedControlSample\obj\Debug\AdornedControlSample.exe
+D:\PROJECTS\VS2013\Adorner\ImprovedAdornedControlSample\obj\Debug\AdornedControlSample.pdb
